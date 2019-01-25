@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompanyapplication.myappapplication",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "microservice",
+    "baseName": "provaapplication",
+    "packageName": "com.mycompanyapplication.myappapplication",
+    "packageFolder": "com/mycompanyapplication/myappapplication",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmJlMjliNGE1NjE3Mjg5ZDIyMTIyNjAzNzBjNzRlZDc2MmZjNzQyNDZjMjM1MDM5ODhjZDMwODFjOGJmODM3OGJlYjE1YzUyYzhjMWUyZDVhZTdkZTQwMGQxNDkzMDk1NzczMWJiZWJmMmY2ODM4N2EzN2U2MDcyMWMyNjIxMmU=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "it"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
